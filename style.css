@@ -1,0 +1,16 @@
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.tab-button {
+    cursor: pointer;
+}
+
+.tab-button.active {
+    background-color: black;
+    color: white;
+}
