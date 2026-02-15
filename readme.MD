@@ -12,3 +12,4 @@ How it works:
 
 6. We select the content element that has the same `data-tab` value as the clicked button and add the "active" class to it, making it visible.
 
+Project idea: https://roadmap.sh/projects/simple-tabs
